@@ -622,11 +622,11 @@ header button {
 }
 
 .hobby .item:nth-of-type(2) {
-  background-image: url(../images/hobby2.jpg);
+  background-image: url(../images/dj.jpg);
 }
 
 .hobby .item:nth-of-type(3) {
-  background-image: url(../images/hobby3.jpg);
+  background-image: url(../images/code.jpg);
 }
 
 .hobby .item:nth-of-type(4) {
@@ -787,7 +787,7 @@ header button {
   line-height: 72px;
   padding-left: 20px;
   float: left;
-  font-size: 20px;
+  font-size: 15px;
 }
 
 @media (min-width: 533px) {
