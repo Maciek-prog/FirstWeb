@@ -847,6 +847,12 @@ header button {
   }
 }
 
+.media{
+  text-decoration: none;
+  color: white;
+  
+}
+
 
 footer {
   background-color: #29a6dc;
